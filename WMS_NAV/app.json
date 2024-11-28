@@ -1,0 +1,51 @@
+{
+  "id": "11981195-e910-4926-92c4-694173ef8a35",
+  "name": "Synchro-WMS-BC",
+  "publisher": "WEDATA-CONSULT",
+  "version": "1.0.0.4",
+  "brief": "",
+  "description": "Synchronisation Wms-Business Central",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "1.0.0.0"
+    },
+
+    {
+      "appId": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "15.0.0.0"
+    },
+    {
+      "id": "a6e8f13e-41c7-4628-bc26-4fe55976bd3b",
+      "publisher": "IBS",
+      "name": "IBS DeltaTunizi Ext.",
+      "version": "1.0.2.56"
+    },
+    {
+      "id": "e95e9a89-8d1b-4016-a057-11890db0ba4f",
+      "publisher": "IBS",
+      "name": "Delta Tunizi Manufacture Integration Ext.",
+      "version": "1.0.0.5"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50199
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.6"
+}
